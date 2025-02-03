@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hariharan K
-- 👀 I’m interested in Data Science
+- 👀 Aspiring in Data Scientist
 - 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning, NLP
 - 📫 How to reach me https://www.linkedin.com/in/hariharan13/
 
